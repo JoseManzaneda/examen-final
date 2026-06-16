@@ -1,10 +1,1 @@
-# Pegar aquí la salida de los 3 curl del Lab 3
-
-## GET /poleras
-
-
-## GET /partidos
-
-
-## GET /partidos/partido-001
-
+{"poleras":[],"total":0}{"partidos":[{"id":"partido-001","equipo1":"Bolivia"}],"total":1}{"id":"partido-001","equipo1":"Bolivia"}
